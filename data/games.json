@@ -1,0 +1,12 @@
+[
+  {"id": 1, "title": "League of Legends", "genre": "MOBA", "developer": "Riot Games", "release_year": 2009, "platforms": ["PC"], "free_to_play": true, "description": "Командна стратегічна гра 5 на 5, де потрібно зруйнувати Нексус суперника."},
+  {"id": 2, "title": "Dota 2", "genre": "MOBA", "developer": "Valve", "release_year": 2013, "platforms": ["PC"], "free_to_play": true, "description": "Командна MOBA з великою кількістю героїв та глибокою тактикою."},
+  {"id": 3, "title": "Counter-Strike 2", "genre": "Shooter", "developer": "Valve", "release_year": 2023, "platforms": ["PC"], "free_to_play": true, "description": "Тактичний командний шутер від першої особи."},
+  {"id": 4, "title": "Fortnite", "genre": "Battle Royale", "developer": "Epic Games", "release_year": 2017, "platforms": ["PC", "PlayStation", "Xbox", "Switch", "Mobile"], "free_to_play": true, "description": "Королівська битва зі зведенням споруд та регулярними сезонними подіями."},
+  {"id": 5, "title": "World of Warcraft", "genre": "MMORPG", "developer": "Blizzard Entertainment", "release_year": 2004, "platforms": ["PC"], "free_to_play": false, "description": "Легендарна багатокористувацька рольова гра у світі Азероту."},
+  {"id": 6, "title": "Minecraft", "genre": "Sandbox", "developer": "Mojang Studios", "release_year": 2011, "platforms": ["PC", "PlayStation", "Xbox", "Switch", "Mobile"], "free_to_play": false, "description": "Пісочниця про будівництво, виживання та дослідження блокового світу."},
+  {"id": 7, "title": "Valorant", "genre": "Shooter", "developer": "Riot Games", "release_year": 2020, "platforms": ["PC"], "free_to_play": true, "description": "Тактичний шутер 5 на 5 з унікальними агентами та здібностями."},
+  {"id": 8, "title": "Genshin Impact", "genre": "Action RPG", "developer": "miHoYo", "release_year": 2020, "platforms": ["PC", "PlayStation", "Mobile"], "free_to_play": true, "description": "Рольова гра з відкритим світом та кооперативним режимом."},
+  {"id": 9, "title": "Roblox", "genre": "Sandbox", "developer": "Roblox Corporation", "release_year": 2006, "platforms": ["PC", "Xbox", "Mobile"], "free_to_play": true, "description": "Платформа, де гравці створюють власні ігри та грають у ігри інших."},
+  {"id": 10, "title": "Apex Legends", "genre": "Battle Royale", "developer": "Respawn Entertainment", "release_year": 2019, "platforms": ["PC", "PlayStation", "Xbox", "Switch"], "free_to_play": true, "description": "Командна королівська битва з легендами, що мають унікальні навички."}
+]

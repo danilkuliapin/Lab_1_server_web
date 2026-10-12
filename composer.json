@@ -1,0 +1,25 @@
+{
+    "name": "student/online-games-api",
+    "description": "Простий REST API про інтернет-ігри (PHP + Slim + Composer) та консольний Python-клієнт",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "slim/slim": "^4.12",
+        "slim/psr7": "^1.6",
+        "ext-pdo": "*",
+        "ext-pdo_sqlite": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php -S localhost:8000 -t public public/index.php",
+        "seed": "php bin/seed.php"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
